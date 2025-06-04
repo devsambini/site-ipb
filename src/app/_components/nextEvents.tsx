@@ -10,13 +10,13 @@ const events = [
     {
         content: "Chá de Mulheres",
         data: "Sábado dia 24/05/2025",
-        role: "Você mulher está convidada para participar desse momento poderoso na presença do Senhor. Venha e traga convidadas para participar conosco.",
+        role: "Você mulher, está convidada para participar desse momento poderoso na presença do Senhor. Venha e traga convidadas para participar conosco.",
         image: mulheres
     },
     {
         content: "Encontro de Casais",
-        data: "Sábado dia 14/06/2025",
-        role: "Palestrante: Rev. Thiago Naruse. Venha participar conosco, e tenha sua vida matrimonial transformada pelo poder de Deus. Investimento de R$50,00 por casal.",
+        data: "Sábado dia 14/06/2025 | Palestrante: Rev. Thiago Naruse",
+        role: "Venha participar conosco, e tenha sua vida matrimonial transformada pelo poder de Deus. Investimento de R$50,00 por casal.",
         image: encontroCasais
     }
 
