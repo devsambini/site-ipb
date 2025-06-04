@@ -38,7 +38,7 @@ export function About(){
                         </ul>
                         
                         <div className="flex gap-2">
-                        <a href="https://wa.me/5511914315524?text=Olá, vim pelo site e gostaria de mais informações sobre a igreja." target="_blank" className="bg-green-500 text-white flex items-center justify-center ml-5 w-50 gap-2 px-4 py-2 rounded-md">
+                        <a href="https://wa.me/5511997080560?text=Olá, vim pelo site e gostaria de mais informações sobre a igreja." target="_blank" className="bg-green-500 text-white flex items-center justify-center ml-5 w-50 gap-2 px-4 py-2 rounded-md">
                             <WhatsappLogo className="w-8 h-6 text-white"/>
                             Contato via Whatsapp! 
                         </a>
