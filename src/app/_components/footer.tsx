@@ -15,7 +15,7 @@ export function Footer() {
                     <div>
                         <h3 className="text-2xl font-bold mb-2">Contatos</h3>
                         <p>Email: ipb.consagracao@gmail.com</p>
-                        <p>Tel: (11) 99242-5665</p>
+                        <p>Tel: (11) 99708-0560</p>
                         <p>Endereço: Rua Alberto Frediani, 157 - 2 ANDAR - Jardim Frediani, Santana de Parnaíba - SP, 06502-155</p>
                     </div>
                      <div>
