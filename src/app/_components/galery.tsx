@@ -15,27 +15,10 @@ import img04 from "../../../public/galeria/img04.jpg"
 import img05 from "../../../public/galeria/img05.jpg"
 import img06 from "../../../public/galeria/img06.jpg"
 import img07 from "../../../public/galeria/img07.jpg"
-import img08 from "../../../public/galeria/img08.jpg"
-import img09 from "../../../public/galeria/img09.jpg"
-import img10 from "../../../public/galeria/img10.jpg"
-import img11 from "../../../public/galeria/img11.jpg"
-import img12 from "../../../public/galeria/img12.jpg"
-import img13 from "../../../public/galeria/img13.jpg"
-import img14 from "../../../public/galeria/img14.jpg"
-import img15 from "../../../public/galeria/img15.jpg"
-import img16 from "../../../public/galeria/img16.jpg"
-import img17 from "../../../public/galeria/img17.jpg"
-import img18 from "../../../public/galeria/img18.jpg"
-import img19 from "../../../public/galeria/img19.jpg"
-import img20 from "../../../public/galeria/img20.jpg"
-import img21 from "../../../public/galeria/img21.jpg"
-import img22 from "../../../public/galeria/img22.jpg"
 import img23 from "../../../public/galeria/img23.png"
 import img24 from "../../../public/galeria/img24.png"
 import img25 from "../../../public/galeria/img25.jpg"
-import img26 from "../../../public/galeria/img26.png"
-import img27 from "../../../public/galeria/img27.png"
-import img28 from "../../../public/galeria/img28.png"
+
 
 const fotos = [
     { image: img01 },
@@ -44,27 +27,9 @@ const fotos = [
     { image: img05 },
     { image: img06 },
     { image: img07 },
-    { image: img08 },
-    { image: img09 },
-    { image: img10 },
-    { image: img11 },
-    { image: img12 },
-    { image: img13 },
-    { image: img14 },
-    { image: img15 },
-    { image: img16 },
-    { image: img17 },
-    { image: img18 },
-    { image: img19 },
-    { image: img20 },
-    { image: img21 },
-    { image: img22 },
     { image: img23 },
     { image: img24 },
     { image: img25 },
-    { image: img26 },
-    { image: img27 },
-    { image: img28 }
 ]
 
 export function Galery() {
@@ -101,7 +66,7 @@ export function Galery() {
                                                         src={item.image}
                                                         alt="galeria"
                                                         width={600}
-                                                        height={400}                                                        
+                                                        height={400}
                                                     />
                                                 </div>
                                             </div>
